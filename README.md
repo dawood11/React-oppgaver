@@ -11,5 +11,5 @@
 
 
 ### Uke 3 - Hooks: useState & Custom hooks
- - Kommer snart ...
+ - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%203%20-%20Hooks%3A%20useState%20%26%20Custom%20hooks/Uke%203%20-%20Hooks%3A%20useState%20%26%20Custom%20hooks.md)
  - Løsningsforslag kommer snart ...
