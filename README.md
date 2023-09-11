@@ -15,5 +15,5 @@
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%203%20-%20Hooks%3A%20useState%20%26%20Custom%20hooks/Uke%203%20-%20Hooks%3A%20useState%20%26%20Custom%20hooks%20-%20Løsningsforslag.md)
 
 ### Uke 4 - Hooks: useEffect
- - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%203%20-%20Hooks%3A%20useState/Uke%203%20-%20Hooks%3A%20useEffect.md)
+ - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%204%20-%20Hooks%3A%20useEffect/Uke%204%20-%20Hooks%3A%20useEffect.md)
  - [Løsningsforslag](Kommer snart ...)
