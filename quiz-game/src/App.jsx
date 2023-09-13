@@ -5,9 +5,9 @@ import { useState } from 'react';
 
 const App = () => {
   const [poeng, setPoeng] = useState(0);
-  const [disableGame, setDisableGame] = useState(false);
-  const [quizElementTeller, setQuizElementTeller] = useState(0);
-  // let quizElementTeller = 0;
+  // const [disableGame, setDisableGame] = useState(false);
+  // const [quizElementTeller, setQuizElementTeller] = useState(0);
+  let quizElementTeller = 0;
   const quizList = [
     {
       spOrsmAl: "Spørsmål 1",
@@ -64,13 +64,13 @@ const App = () => {
       setPoeng((prevState) => prevState - 1);
     }
 
-    // // quizElementTeller = quizElementTeller + 1;
+    quizElementTeller = quizElementTeller + 1;
     // setQuizElementTeller((prevState) => prevState + 1);
     // console.log(quizElementTeller, quizElementTeller === quizList.length)
     // if (quizElementTeller === quizList.length) {
     //   setDisableGame(true);
     // }
-    // setQuiz(quizList[quizElementTeller]);
+    setQuiz(quizList[quizElementTeller]);
   };
 
   return (
@@ -82,7 +82,7 @@ const App = () => {
           quiz.svarAlternativer.map((svarAlternativ, index) => (
             <Button
               key={index}
-              disable={disableGame}
+              // disable={disableGame}
               setPoengFunksjon={() => setPoengFunksjon(svarAlternativ)}
               svarAlternativ={svarAlternativ}
             />
