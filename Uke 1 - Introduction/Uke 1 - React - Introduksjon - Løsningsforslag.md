@@ -7,7 +7,7 @@ import React from 'react';
 const Header = ({ imageUrl, name }) => (
   <div>
     <h1>Mitt Online CV</h1>
-    <img src={imageUrl} alt={name} width="200" />
+    <img src={imageUrl} alt={name} width='200' />
   </div>
 );
 export default Header;
@@ -56,19 +56,19 @@ import SkillsButton from './SkillsButton';
 
 const App = () => {
   const personalDetails = {
-    name: "Ola Nordmann",
-    imageUrl: "path_to_image.jpg",
-    address: "Osloveien 123, 1234 Oslo",
-    phone: "12345678",
-    email: "ola@nordmann.no"
+    name: 'Ola Nordmann',
+    imageUrl: 'path_to_image.jpg',
+    address: 'Osloveien 123, 1234 Oslo',
+    phone: '12345678',
+    email: 'ola@nordmann.no'
   };
 
   const showDetails = () => {
-    alert("Ferdigheter:\n- Webutvikling\n- Apputvikling\n- Databaseforvaltning");
+    alert('Ferdigheter:\n- Webutvikling\n- Apputvikling\n- Databaseforvaltning');
   }
 
   return (
-    <div className="App">
+    <div className='App'>
       <Header name={personalDetails.name} imageUrl={personalDetails.imageUrl} />
       <PersonalInfo 
         name={personalDetails.name}
@@ -83,7 +83,7 @@ const App = () => {
 export default App;
 ```
 **Forklaring:** 
-`App`-komponenten samler alle de tidligere definerte komponentene. `personalDetails` objektet inneholder dummydata for en bruker. `showDetails` funksjonen er definert for å vise en alert med ferdighetene når "Vis detaljer" knappen blir klikket. Deretter bruker vi `Header`, `PersonalInfo`, og `SkillsButton` komponentene, og passerer de nødvendige props til dem for å vise informasjonen.
+`App`-komponenten samler alle de tidligere definerte komponentene. `personalDetails` objektet inneholder dummydata for en bruker. `showDetails` funksjonen er definert for å vise en alert med ferdighetene når 'Vis detaljer' knappen blir klikket. Deretter bruker vi `Header`, `PersonalInfo`, og `SkillsButton` komponentene, og passerer de nødvendige props til dem for å vise informasjonen.
 
 ---
 

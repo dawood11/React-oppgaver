@@ -1,19 +1,19 @@
-## Uke 3 - Hooks: useState & custom hooks: Løsning og Forklaring:
+## Uke 3 - `Hooks: useState`: Løsning og Forklaring:
 
 ### **Løsning Oppgave 1:**
 ```javascript
 import React, { useState } from 'react';
 
 const CVInfo = () => {
-  const [name, setName] = useState("");
-  const [age, setAge] = useState("");
-  const [profession, setProfession] = useState("");
+  const [name, setName] = useState('');
+  const [age, setAge] = useState('');
+  const [profession, setProfession] = useState('');
 
   return (
     <div>
-      <input placeholder="Navn" onChange={e => setName(e.target.value)} />
-      <input placeholder="Alder" onChange={e => setAge(e.target.value)} />
-      <input placeholder="Yrke" onChange={e => setProfession(e.target.value)} />
+      <input placeholder='Navn' onChange={e => setName(e.target.value)} />
+      <input placeholder='Alder' onChange={e => setAge(e.target.value)} />
+      <input placeholder='Yrke' onChange={e => setProfession(e.target.value)} />
       <div>
         <strong>Navn:</strong> {name} <br />
         <strong>Alder:</strong> {age} <br />
@@ -32,18 +32,18 @@ Vi benytter `useState` hook for å opprette og håndtere tilstander for `Navn`, 
 import React, { useState } from 'react';
 
 const Skills = () => {
-  const [skill, setSkill] = useState("");
+  const [skill, setSkill] = useState('');
   const [skillsList, setSkillsList] = useState([]);
 
   const addSkill = () => {
     setSkillsList([...skillsList, skill]);
-    setSkill("");
+    setSkill('');
   }
 
   return (
     <div>
       <input 
-        placeholder="Ferdighet" 
+        placeholder='Ferdighet' 
         value={skill} 
         onChange={e => setSkill(e.target.value)} 
       />
@@ -57,7 +57,7 @@ const Skills = () => {
 ```
 
 **Forklaring:**
-Vi bruker to `useState`-hooks; en for å holde styr på den nåværende ferdigheten som skrives inn og en for å holde styr på den totale listen over ferdigheter. Når "Legg til"-knappen klikkes, legges den nåværende ferdigheten til i listen og input-feltet renses.
+Vi bruker to `useState`-hooks; en for å holde styr på den nåværende ferdigheten som skrives inn og en for å holde styr på den totale listen over ferdigheter. Når 'Legg til'-knappen klikkes, legges den nåværende ferdigheten til i listen og input-feltet renses.
 
 ### **Løsning Oppgave 3:**
 ```javascript
@@ -65,9 +65,9 @@ import { useState } from 'react';
 
 const useCVData = () => {
   const [data, setData] = useState({
-    name: "",
-    age: "",
-    profession: "",
+    name: '',
+    age: '',
+    profession: '',
     skills: []
   });
 
@@ -108,8 +108,8 @@ const LanguageSelector = () => {
     return (
         <div>
             <select value={language} onChange={(e) => setLanguage(e.target.value)}>
-                <option value="no">Norsk</option>
-                <option value="en">English</option>
+                <option value='no'>Norsk</option>
+                <option value='en'>English</option>
             </select>
             <h1>{currentTranslation.title}</h1>
             <h2>{currentTranslation.skills}</h2>

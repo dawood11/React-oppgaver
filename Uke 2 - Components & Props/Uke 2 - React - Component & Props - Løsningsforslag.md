@@ -58,7 +58,7 @@ const Footer = ({ year }) => (
 export default Footer;
 ```
 **Forklaring:** 
-`Footer`-komponenten er en funksjonskomponent som tar inn en prop `year`, og returnerer en `div` med teksten "© [year] Ditt Navn".
+`Footer`-komponenten er en funksjonskomponent som tar inn en prop `year`, og returnerer en `div` med teksten '© [year] Ditt Navn'.
 
 ### **Ekstra utfordringsoppgaver Løsning**
 
@@ -74,7 +74,7 @@ const Projects = ({ projects }) => (
         <li key={index}>
           <h3>{project.title}</h3>
           <p>{project.description}</p>
-          <a href={project.link} target="_blank" rel="noopener noreferrer">Se Prosjekt</a>
+          <a href={project.link} target='_blank' rel='noopener noreferrer'>Se Prosjekt</a>
         </li>
       ))}
     </ul>
@@ -117,7 +117,7 @@ const Skills = ({ skills: initialSkills }) => {
 export default Skills;
 ```
 **Forklaring:** 
-I den modifiserte `Skills`-komponenten har vi lagt til en lokal state `skills` og en `handleDelete` funksjon som fjerner en ferdighet fra listen når "Slett" knappen blir klikket.
+I den modifiserte `Skills`-komponenten har vi lagt til en lokal state `skills` og en `handleDelete` funksjon som fjerner en ferdighet fra listen når 'Slett' knappen blir klikket.
 
 ### **App.js**
 ```javascript

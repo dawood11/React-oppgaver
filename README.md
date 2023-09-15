@@ -16,4 +16,9 @@
 
 ### Uke 4 - Hooks: useEffect
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%204%20-%20Hooks%3A%20useEffect/Uke%204%20-%20Hooks%3A%20useEffect.md)
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%202%20-%20Components%20%26%20Props/Uke%202%20-%20React%20-%20Component%20%26%20Props%20-%20Løsningsforslag.md)
+
+
+### Uke 5 - Debugging & testing
+ - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debugging%20%26%20testing/Uke%205%20-%20Debugging%20%26%20testing.md)
  - [Løsningsforslag](Kommer snart ...)

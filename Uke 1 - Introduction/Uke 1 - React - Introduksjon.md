@@ -23,7 +23,7 @@
 
 1. Fjern all standardkode i `App.js`.
 
-2. Legg til en overskrift som sier "Mitt Online CV".
+2. Legg til en overskrift som sier 'Mitt Online CV'.
 
 3. Under overskriften, legg til et bilde av deg selv eller et plassholderbilde.
 
@@ -33,21 +33,19 @@
 
 ### Oppgave 4: Interaktivitet
 
-1. Legg til en knapp under din informasjon med teksten "Vis detaljer".
+1. Legg til en knapp under din informasjon med teksten 'Vis detaljer'.
 
 2. Når knappen klikkes, skal det poppe opp en `alert`-boks med en liste over dine ferdigheter/tjenester.
-
- ---
 
 ### Utfordringsoppgave 1: Komponenter
 
 1. Splitt din CV applikasjon inn i mindre komponenter. Opprett minst tre separate komponenter: `Header`, `PersonalInfo` og `SkillsButton`.
 
-2.  `Header` skal inneholde tittelen "Mitt Online CV" og bildet ditt.
+2.  `Header` skal inneholde tittelen 'Mitt Online CV' og bildet ditt.
 
 3.  `PersonalInfo` skal vise din personlige informasjon: navn, adresse, telefonnummer, og e-post.
 
-4.  `SkillsButton` skal være knappen som sier "Vis detaljer" og som viser alert-boksen fra tidligere.
+4.  `SkillsButton` skal være knappen som sier 'Vis detaljer' og som viser alert-boksen fra tidligere.
 
   
 
@@ -57,5 +55,5 @@
 
 2. For eksempel, overfør personlige detaljer til `PersonalInfo` komponenten som props.
 
-
 ---
+

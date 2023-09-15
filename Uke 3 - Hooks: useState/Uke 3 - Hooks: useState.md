@@ -1,4 +1,4 @@
-## Oppgavesett: Interaktiv Online CV Webapplikasjon: **Hooks: useState & custom hooks**
+## Oppgavesett: Interaktiv Online CV Webapplikasjon: **Hooks: useState**
 
 ### **Oppgave 1:** Vis CV-informasjon
 
@@ -23,3 +23,4 @@ Lag en egendefinert hook kalt `useCVData` som lar deg lagre og hente CV-data. De
 Lag en funksjon som lar brukeren velge mellom forskjellige språk for CV-en. Når et språk er valgt, skal all tekst i CVen oppdateres til det valgte språket. Hint: Du kan ha forskjellige tekststrenger lagret i en tilstand basert på valgt språk.
 
 ---
+
