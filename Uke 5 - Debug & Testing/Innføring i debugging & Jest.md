@@ -1,4 +1,4 @@
-# **6. En Innføring i `Jest` og `Debugging` teknikker**
+# **6. Innføring i `Jest` og `Debugging` teknikker**
 
 ## Del 1: Debugging
 
