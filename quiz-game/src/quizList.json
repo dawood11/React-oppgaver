@@ -1,0 +1,44 @@
+[
+	{
+		"spOrsmAl": "Spørsmål 1",
+		"svarAlternativer": [
+			{
+				"svar": "Svar verdi 1",
+				"korrekt": false
+			},
+			{
+				"svar": "Svar verdi 2",
+				"korrekt": false
+			},
+			{
+				"svar": "Svar verdi 3",
+				"korrekt": true
+			},
+			{
+				"svar": "Svar verdi 4",
+				"korrekt": false
+			}
+		]
+	},
+	{
+		"spOrsmAl": "Spørsmål 2",
+		"svarAlternativer": [
+			{
+				"svar": "Svar2 verdi 1",
+				"korrekt": false
+			},
+			{
+				"svar": "Svar2 verdi 2",
+				"korrekt": false
+			},
+			{
+				"svar": "Svar2 verdi 3",
+				"korrekt": true
+			},
+			{
+				"svar": "Svar2 verdi 4",
+				"korrekt": false
+			}
+		]
+	}
+]
