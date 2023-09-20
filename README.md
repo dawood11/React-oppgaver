@@ -11,7 +11,6 @@
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%202%20-%20Components%20%26%20Props/Uke%202%20-%20React%20-%20Component%20%26%20Props.md)
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%202%20-%20Components%20%26%20Props/Uke%202%20-%20React%20-%20Component%20%26%20Props%20-%20Løsningsforslag.md)
 
-
 ### Uke 3 - Hooks: useState
  - [Innføring i React Hooks: useState](https://github.com/dawood11/React-oppgaver/blob/master/Uke%203%20-%20Hooks%3A%20useState/innføring%20i%20Hooks%3A%20useState.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%203%20-%20Hooks%3A%20useState/Uke%203%20-%20Hooks%3A%20useState.md)
@@ -27,7 +26,14 @@
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Uke%205%20-%20Debug%20%26%20Testing.md)
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Uke%205%20-%20Debug%20%26%20Testing%20-%20Løsningsforslag.md)
 
-### Uke 6 - ...
- - [Innføring]()
- - [Oppgaver]()
- - [Løsningsforslag]()
+### Uke 5 - Debugging & testing
+ - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debugging%20%26%20testing/Uke%205%20-%20Debugging%20%26%20testing.md)
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debugging%20%26%20testing/Uke%205%20-%20Debugging%20%26%20testing%20-%20Løsningsforslag.md)
+
+### Uke 6 - TypeScript ( & propTypes)
+ - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29.md)
+ - [Løsningsforslag](Kommer snart...)
+
+### Uke 7 - React router dom
+ - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Uke%207%20-%20React%20router%20dom.md)
+ - [Løsningsforslag](Kommer snart...)
