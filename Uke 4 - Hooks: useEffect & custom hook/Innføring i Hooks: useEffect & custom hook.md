@@ -15,7 +15,7 @@ Tenk på `useEffect` i React som en måte å gjøre ting automatisk i appen din,
 
 Det er hovedsakelig fire måter man bør kjenne til når det kommer til bruken av `useEffect`:
 
-#### 1. Kjøres etter hver render
+**1. Kjøres etter hver render**
 
 Dette er standardoppførselen til `useEffect`. Den kjøres etter hver render.
 ```javascript
@@ -24,7 +24,7 @@ useEffect(() => {
 });
 ```
 
-#### 2. Kjøres kun én gang
+**2. Kjøres kun én gang**
 
 Ved å gi en tom avhengighetsliste, sørger vi for at effekten kun kjører en gang, rett etter komponenten har blitt vist for første gang.
 ```javascript
@@ -33,7 +33,7 @@ useEffect(() => {
 }, []);
 ```
 
-#### 3. Kjøres når bestemte verdier endrer seg
+**3. Kjøres når bestemte verdier endrer seg**
 
 Du kan også spesifisere hvilke verdier `useEffect` skal 'se' etter, og bare kjøre når disse verdiene endres.
 ```javascript
@@ -44,7 +44,7 @@ useEffect(() => {
 }, [count]);
 ```
 
-#### 4. Clean-up
+**4. Clean-up**
 
 I noen tilfeller kan det være at du har satt opp noe i `useEffect` som trenger å fjernes eller ryddes opp når komponenten avmonteres eller før `useEffect` kjøres på nytt. Dette er kjent som clean-up.
 

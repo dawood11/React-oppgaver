@@ -12,7 +12,7 @@ En React-komponent kan tenkes på som en funksjon som tar inn `props` (egenskape
 
 Det er to hovedtyper av komponenter i React:
 
-#### 1. Funksjonskomponenter
+**1. Funksjonskomponenter**
 
 Dette er den enkleste formen for React-komponenter.
 
@@ -22,7 +22,7 @@ const Welcome = () => {
 }
 ```
 
-#### 2. Klassekomponenter
+**2. Klassekomponenter**
 
 For mer avansert bruk, spesielt når du vil administrere tilstanden:
 
