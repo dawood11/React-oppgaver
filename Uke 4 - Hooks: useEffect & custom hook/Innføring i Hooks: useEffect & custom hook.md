@@ -257,7 +257,7 @@ const ToggleComponent = () => {
 };
 ```
 
-**Forklaring av koden:**
+**Forklaring:**
 
 1. **Definering av Custom Hook**: Vi har definert en custom hook ved navn `useToggle`. Navnet på alle custom hooks bør starte med `use` for å opprettholde konvensjon og lesbarhet.
 2. **Bruk av useState**: Inne i `useToggle`-funksjonen har vi brukt `useState` for å opprette en state-variabel, `value`, og dens oppdateringsfunksjon, `setValue`.

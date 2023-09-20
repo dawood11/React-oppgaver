@@ -38,7 +38,7 @@ const Counter = () => {
 };
 ```
 
-#### Forklaring av koden:
+**Forklaring:**
 
 1. **Importere `useState`**: Først må vi importere `useState`-hooken fra 'react'.
 2. **Deklarere en state-variabel**: Vi deklarerer en state-variabel kalt `count` med en initiell verdi av `0` ved hjelp av `useState`.
