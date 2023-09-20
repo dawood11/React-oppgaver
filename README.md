@@ -22,18 +22,16 @@
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hook/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hooks%20-%20Løsningsforslag.md)
 
 ### Uke 5 - Debugging & testing
- - [Innføring i Jest og Debugging teknikker](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Innføring%20i%20debugging%20%26%20Jest.md)
- - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Uke%205%20-%20Debug%20%26%20Testing.md)
- - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Uke%205%20-%20Debug%20%26%20Testing%20-%20Løsningsforslag.md)
-
-### Uke 5 - Debugging & testing
+ - [Innføring i useContext](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Innføring%20i%20debugging%20%26%20Jest.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debugging%20%26%20testing/Uke%205%20-%20Debugging%20%26%20testing.md)
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debugging%20%26%20testing/Uke%205%20-%20Debugging%20%26%20testing%20-%20Løsningsforslag.md)
 
 ### Uke 6 - TypeScript ( & propTypes)
+ - [Innføring i useContext](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20(%20%26%20propTypes)/Innføring%20i%20PropTypes%20%26%20TypeScript.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29.md)
  - [Løsningsforslag](Kommer snart...)
 
 ### Uke 7 - React router dom
+ - [Innføring i useContext](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Innføring%20i%20React%20router%20dom.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Uke%207%20-%20React%20router%20dom.md)
- - [Løsningsforslag](Kommer snart...)
+- [Løsningsforslag](Kommer snart...)
