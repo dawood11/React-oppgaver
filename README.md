@@ -23,8 +23,8 @@
 
 ### Uke 5 - Debugging & testing
  - [Innføring i Debugging & testing](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Innføring%20i%20debugging%20%26%20Jest.md)
- - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debugging%20%26%20testing/Uke%205%20-%20Debugging%20%26%20testing.md)
- - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debugging%20%26%20testing/Uke%205%20-%20Debugging%20%26%20testing%20-%20Løsningsforslag.md)
+ - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Uke%205%20-%20Debug%20%26%20Testing.md)
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Uke%205%20-%20Debug%20%26%20Testing%20-%20Løsningsforslag.md)
 
 ### Uke 6 - TypeScript ( & propTypes)
  - [Innføring i TypeScript ( & propTypes)](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20(%20%26%20propTypes)/Innføring%20i%20PropTypes%20%26%20TypeScript.md)
