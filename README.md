@@ -27,11 +27,16 @@
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Uke%205%20-%20Debug%20%26%20Testing%20-%20Løsningsforslag.md)
 
 ### Uke 6 - TypeScript ( & propTypes)
- - [Innføring i TypeScript ( & propTypes)](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20(%20%26%20propTypes)/Innføring%20i%20PropTypes%20%26%20TypeScript.md)
+ - [Innføring i useContext](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20(%20%26%20propTypes)/Innføring%20i%20PropTypes%20%26%20TypeScript.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29.md)
- - [Løsningsforslag](Kommer snart...)
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29%20-%20Løsningsforslag.md)
 
 ### Uke 7 - React router dom
- - [Innføring i React router dom](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Innføring%20i%20React%20router%20dom.md)
+ - [Innføring i useContext](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Innføring%20i%20React%20router%20dom.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Uke%207%20-%20React%20router%20dom.md)
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Uke%207%20-%20React%20router%20dom%20-%20Løsningsforslag.md)
+
+### Uke 8 - Hooks: useContext
+ - [Innføring i useContext](https://github.com/dawood11/React-oppgaver/blob/master/Uke%208%20-%20Hooks%3A%20useContext/Innføring%20i%20useContext.md)
+ - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%208%20-%20Hooks%3A%20useContext/Uke%208%20-%20Hooks%3A%20useContext.md)
 - [Løsningsforslag](Kommer snart...)
