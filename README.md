@@ -6,7 +6,7 @@
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%201%20-%20Introduction/Uke%201%20-%20React%20-%20Introduksjon.md)
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%201%20-%20Introduction/Uke%201%20-%20React%20-%20Introduksjon%20-%20Løsningsforslag.md)
 
-### Uke 2 - Components & Props (& Events & Handling)
+<!-- ### Uke 2 - Components & Props (& Events & Handling)
  - [Innføring i Components & Props i React](https://github.com/dawood11/React-oppgaver/blob/master/Uke%202%20-%20Components%20%26%20Props/Innføring%20i%20Components%20%26%20Props.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%202%20-%20Components%20%26%20Props/Uke%202%20-%20React%20-%20Component%20%26%20Props.md)
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%202%20-%20Components%20%26%20Props/Uke%202%20-%20React%20-%20Component%20%26%20Props%20-%20Løsningsforslag.md)
@@ -54,4 +54,4 @@
 ### Uke 10 - Hooks: useReducer & useSelector
  - [Innføring i Hooks: useReducer & useSelector](https://github.com/dawood11/React-oppgaver/blob/master/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector/Innføring%20i%20Hooks%3A%20useReducer%20%26%20useSelector.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector.md)
- - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector%20-%20Løsningsforslag.md)
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector%20-%20Løsningsforslag.md) -->
