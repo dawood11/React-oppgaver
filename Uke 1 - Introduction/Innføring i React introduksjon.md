@@ -14,10 +14,11 @@ React krever Node.js, en JavaScript runtime, for å kjøre. Sammen med Node.js k
   - Selv om React kjører i nettleseren, bruker vi Node.js for verktøy som bygger, tester og kjører utviklingsserveren.
   
 - **Hva er npm?**
-  - npm er verdens største programvarebibliotek. Det hjelper med å installere ulike biblioteker (som React) og verktøy (som `create-react-app`) som er nødvendige for moderne webutvikling.
+  - npm er verdens største programvarebibliotek. Det hjelper med å installere ulike biblioteker (som React) og verktøy (som `Vite`) som er nødvendige for moderne webutvikling.
 
-- **Hva er npx?**
-  - `npx` er et pakkekjøringsverktøy som kommer med npm. Det lar deg kjøre kommandoer fra pakker som ikke globalt er installert på din maskin. Dette er spesielt nyttig for å bruke verktøy som `create-react-app` uten å installere dem globalt.
+- **Hva er vite?**
+  - `Vite` er et **build-verktøy** og **utviklingsserver** for moderne webapplikasjoner. Det hjelper utviklere med å sette opp og kjøre prosjekter raskere ved å tilby en effektiv måte å håndtere og kompilere kildekode på, spesielt når man jobber med teknologier som JavaScript, TypeScript, Vue.js, React, og andre moderne rammeverk.
+  - **Hot Module Replacement (HMR):** Oppdaterer automatisk endringer du gjør i koden, uten å måtte laste hele siden på nytt.
 
 **Instruksjoner for installasjon:**
 1. Last ned og installer [Node.js](https://nodejs.org/).
@@ -26,15 +27,12 @@ React krever Node.js, en JavaScript runtime, for å kjøre. Sammen med Node.js k
 
 ## Opprette ditt første React-prosjekt
 
-Med Node.js og npm installert, kan du enkelt opprette et nytt React-prosjekt ved å bruke `create-react-app`:
-
+Med Node.js og npm installert, kan du enkelt opprette et nytt React-prosjekt ved å bruke:
 ```bash
-npx create-react-app mitt-react-prosjekt
-cd mitt-react-prosjekt
-npm start
+npm create vite@latest
 ```
 
-Når du oppretter et nytt prosjekt med `create-react-app`, får du følgende filstruktur:
+Når du oppretter et nytt prosjekt med `create vite@latest`, får du følgende filstruktur:
 
 - `public/`: Dette mappen inneholder statiske filer. Den viktigste er `index.html`, som er hovedHTML-filen din. Alle React-komponenter festes her.
 - `src/`: Dette er mappen der all React-kode skal ligge. Den inkluderer komponenter, stiler, og annen JavaScript-kode.
