@@ -17,9 +17,9 @@
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%203%20-%20Hooks%3A%20useState/Uke%203%20-%20Hooks%3A%20useState%20-%20Løsningsforslag.md)
 
 ### Uke 4 - Hooks: useEffect
- - [Innføring i React Hooks: useEffect & custom hooks](https://github.com/dawood11/React-oppgaver/blob/master/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hook/Innføring%20i%20Hooks%3A%20useEffect%20%26%20custom%20hook.md)
- - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hook/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hooks.md)
- - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hook/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hooks%20-%20Løsningsforslag.md)
+ - [Innføring i React Hooks: useEffect & custom hooks](https://github.com/dawood11/React-oppgaver/blob/master/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hook/Innføring%20i%20Hooks_%20useEffect%20%26%20custom%20hook.md)
+ - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hook/Uke%204%20-%20Hooks_%20useEffect%20%26%20custom%20hooks.md)
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%204%20-%20Hooks%3A%20useEffect%20%26%20custom%20hook/Uke%204%20-%20Hooks_%20useEffect%20%26%20custom%20hooks%20-%20Løsningsforslag.md)
 
 <!-- ### Uke 5 - Debugging & testing
  - [Innføring i Debugging & testing](https://github.com/dawood11/React-oppgaver/blob/master/Uke%205%20-%20Debug%20%26%20Testing/Innføring%20i%20debugging%20%26%20Jest.md)
