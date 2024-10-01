@@ -31,15 +31,15 @@
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29.md)
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29/Uke%206%20-%20TypeScript%20%28%20%26%20propTypes%29%20-%20Løsningsforslag.md)
 
-<!-- ### Uke 7 - React router dom
+### Uke 7 - React router dom
  - [Innføring i useContext](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Innføring%20i%20React%20router%20dom.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Uke%207%20-%20React%20router%20dom.md)
- - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Uke%207%20-%20React%20router%20dom%20-%20Løsningsforslag.md) -->
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%207%20-%20React%20router%20dom/Uke%207%20-%20React%20router%20dom%20-%20Løsningsforslag.md)
 
-<!-- ### Uke 8 - Hooks: useContext
+### Uke 8 - Hooks: useContext
  - [Innføring i useContext](https://github.com/dawood11/React-oppgaver/blob/master/Uke%208%20-%20Hooks%3A%20useContext/Innføring%20i%20useContext.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%208%20-%20Hooks%3A%20useContext/Uke%208%20-%20Hooks%3A%20useContext.md)
- - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%208%20-%20Hooks%3A%20useContext/Uke%208%20-%20Hooks%3A%20useContext%20-%20Løsningsforslag.md) -->
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%208%20-%20Hooks%3A%20useContext/Uke%208%20-%20Hooks%3A%20useContext%20-%20Løsningsforslag.md)
 
 <!-- ### Uke 9 - Hooks: useContext
  - [Innføring i useContext](https://github.com/dawood11/React-oppgaver/blob/master/Uke%209%20-%20Hooks%3A%20useContext/Innføring%20i%20useContext.md)
