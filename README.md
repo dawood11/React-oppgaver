@@ -46,12 +46,12 @@
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%209%20-%20Hooks%3A%20useContext/Uke%209%20-%20Hooks%3A%20useContext.md)
  - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%209%20-%20Hooks%3A%20useContext/Uke%209%20-%20Hooks%3A%20useContext%20-%20Løsningsforslag.md) -->
 
-<!-- ### Uke 10 - Redux & Redux toolkit
+### Uke 9 - Redux & Redux toolkit
  - [Innføring i Redux & Redux toolkit](https://github.com/dawood11/React-oppgaver/blob/master/Uke%209%20-%20Redux%20toolkit/Innføring%20i%20Redux%20toolkit.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%209%20-%20Redux%20toolkit/Uke%209%20-%20Redux%20toolkit.md)
- - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%209%20-%20Redux%20toolkit/Uke%209%20-%20Redux%20toolkit%20-%20Løsningsforslag.md) -->
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%209%20-%20Redux%20toolkit/Uke%209%20-%20Redux%20toolkit%20-%20Løsningsforslag.md)
 
-<!-- ### Uke 10 - Hooks: useReducer & useSelector
+### Uke 10 - Hooks: useReducer & useSelector
  - [Innføring i Hooks: useReducer & useSelector](https://github.com/dawood11/React-oppgaver/blob/master/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector/Innføring%20i%20Hooks%3A%20useReducer%20%26%20useSelector.md)
  - [Oppgaver](https://github.com/dawood11/React-oppgaver/blob/master/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector.md)
- - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector%20-%20Løsningsforslag.md) -->
+ - [Løsningsforslag](https://github.com/dawood11/React-oppgaver/blob/master/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector/Uke%2010%20-%20Hooks%3A%20useReducer%20%26%20useSelector%20-%20Løsningsforslag.md)
