@@ -1,12 +1,9 @@
-import { useLocation, useNavigate } from "react-router-dom";
-
+import { ContainerPropsType } from "./Container.types";
 import Navbar from "../Navbar/Navbar";
+import { useNavigate } from "react-router-dom";
 
-const Container = (props) => {
+const Container = (props: ContainerPropsType) => {
   const navigate = useNavigate();
-  const location = useLocation();
-
-  // console.log(location)
 
   return (
     <>

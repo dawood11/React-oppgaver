@@ -1,9 +1,10 @@
-import App from '../App';
-import Contacts from '../pages/Contacts';
-import Product from '../pages/Product';
-import Products from '../pages/Products';
-import ProtectedRoute from '../components/ProtectedRoute/ProtectedRoute';
-import { createBrowserRouter } from "react-router-dom";
+import { RouteObject, createBrowserRouter } from "react-router-dom";
+
+import App from "../App";
+import Contacts from "../pages/Contacts";
+import Product from "../pages/Products/Product";
+import Products from "../pages/Products/Products";
+import ProtectedRoute from "../components/ProtectedRoute/ProtectedRoute";
 
 export const ROUTES = {
     ROOT: '/',
@@ -13,7 +14,7 @@ export const ROUTES = {
 };
 
 
-const router = createBrowserRouter([
+const routes: RouteObject[] = [
   {
     path: ROUTES.ROOT,
     element: <App />,
@@ -31,6 +32,8 @@ const router = createBrowserRouter([
     path: ROUTES.CONTACT,
     element: <Contacts />,
   },
-]);
+];
+
+const router = createBrowserRouter(routes);
 
 export default router;

@@ -1,18 +1,19 @@
 import "./Navbar.css";
 
-import { login, logout } from "../../redux/authSlice";
-import { useDispatch, useSelector } from "react-redux";
+import { login, logout } from "../../redux/auth/authSlice";
+import { useAppDispatch, useAppSelector } from "../../redux/reduxHooks";
 
 import { Link } from "react-router-dom";
+import { NavElementsType } from './Navbar.types';
 import { ROUTES } from "../../router/routes";
 import { useState } from "react";
 
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(false);
-  const auth = useSelector((state) => state.auth.value);
-  const dispatch = useDispatch();
+  const [isOpen, setIsOpen] = useState<boolean>(false);
+  const auth = useAppSelector((state) => state.auth.value);
+  const dispatch = useAppDispatch();
 
-  const navElements = [
+  const navElements: NavElementsType[] = [
     {
       name: "Home",
       route: ROUTES.ROOT,
@@ -39,7 +40,7 @@ const Navbar = () => {
         </a>
       </div>
       <div className={`navbar-links ${isOpen ? "open" : ""}`}>
-        {navElements.map((navItem, index) => (
+        {navElements.map((navItem: NavElementsType, index) => (
           <Link key={index} to={navItem.route}>
             {navItem.name}
           </Link>
